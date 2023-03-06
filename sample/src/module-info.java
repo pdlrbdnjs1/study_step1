@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author pdlrb
+ *
+ */
+module sample {
+}
